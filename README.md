@@ -1,5 +1,5 @@
 # Pandas_to_NLP
-O objetivo deste código é permitir que você realize uma análise de NLP com facilidade a partir de um Dataframe Pandas com facilidade.
+O objetivo deste código é permitir que você realize uma análise de NLP com facilidade a partir de um Dataframe Pandas.
 
 ## O que o código faz?
 Remove pontuação, lematiza, tokeniza, remove stopwords, padroniza palavras e indentifica o tamanho de cada review em uma coluna de comentários.<br/>
