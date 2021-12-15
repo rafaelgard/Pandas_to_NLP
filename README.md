@@ -2,7 +2,7 @@
 O objetivo deste repositório é permitir que você realize uma análise de NLP com facilidade
 
 ## Retorno da Classe Pandas_to_NLP
-![Retorno](![Screenshot_6](https://user-images.githubusercontent.com/25333881/146276009-3b0bdb83-4716-47b7-a7f3-d545f8e1a2ad.png))
+![Retorno](https://user-images.githubusercontent.com/25333881/146276009-3b0bdb83-4716-47b7-a7f3-d545f8e1a2ad.png)
 
 ## Como rodar o programa?
 Passo 1 - Instale os pacotes requiridos através do pip<br/>
